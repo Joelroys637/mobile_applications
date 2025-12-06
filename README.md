@@ -21,3 +21,10 @@
 
   App home page
 <img width="500" height="500" alt="app home page" src="https://github.com/user-attachments/assets/c6d2e3f9-c330-4f8d-be36-4635eef1d717" />
+
+
+🧑‍💻 Developer
+
+👤 Developed by: Leo Joel Roys
+📍 Made in India 🇮🇳
+💡 Passionate about Flutter, Mobile Apps & AI Projects
