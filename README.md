@@ -26,5 +26,4 @@
 🧑‍💻 Developer
 
 👤 Developed by: Leo Joel Roys
-📍 Made in India 🇮🇳
 💡 Passionate about Flutter, Mobile Apps & AI Projects
